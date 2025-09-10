@@ -23,3 +23,10 @@ Entrega aula02
 
 <img width="1917" height="906" alt="Aula 02" src="https://github.com/user-attachments/assets/e3869c51-5068-4aa4-975c-79da2d142c8a" />
 
+
+Montei o layout utilizando um container (View) agrupando cabeçalho, conteúdo principal e rodapé. O container foi configurado com 
+a propriedade { flex: 1 }, que permite que ele se ajuste ao tamanho da tela e ocupe todo o espaço. O cabeçalho está posicionado na 
+parte superior, conteúdo principal no centralizado e o rodapé fixado na parte inferior. As cores de cada seção foram aplicadas por 
+backgroundColor fazendo o destaque de cada bloco. Para manter os textos centralizados dentro de seus blocos utilizei justifyContent, 
+que organiza os elementos no eixo vertical e alignItems, que faz o alinhamento no eixo horizontal, deixando o layout equilibrado e 
+visivelmente harmônico. 
