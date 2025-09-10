@@ -19,3 +19,7 @@ Exercício 4
 ![Exercício 4](https://github.com/user-attachments/assets/45c372bc-b1f8-437a-b35f-3997542e4bae)
 
 
+Entrega aula02
+
+<img width="1917" height="906" alt="Aula 02" src="https://github.com/user-attachments/assets/e3869c51-5068-4aa4-975c-79da2d142c8a" />
+
