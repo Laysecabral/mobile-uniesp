@@ -8,6 +8,7 @@
 ![Exercicio3](https://github.com/user-attachments/assets/2a0d3677-19bc-4e7d-bfad-4eec47c12841)
 ![Exercício 4](https://github.com/user-attachments/assets/45c372bc-b1f8-437a-b35f-3997542e4bae)
 <img width="1917" height="906" alt="Aula 02" src="https://github.com/user-attachments/assets/e3869c51-5068-4aa4-975c-79da2d142c8a" />
+![pagina](https://github.com/user-attachments/assets/a1a59419-ae3e-49b0-8309-25a5bb705f33)
 
 
 Montei o layout utilizando um container (View) agrupando cabeçalho, conteúdo principal e rodapé. O container foi configurado com 
