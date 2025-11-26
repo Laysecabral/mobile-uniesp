@@ -25,7 +25,6 @@ A construção deste app faz parte da disciplina de Programação de Dispositivo
 
 
 ## Estrutura da Branch
-
 - `main`: Branch principal do projeto, onde as atualizações e funcionalidades validadas são incorporadas.
 ## Como Clonar o Projeto
 
