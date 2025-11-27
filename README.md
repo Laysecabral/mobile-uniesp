@@ -57,7 +57,8 @@ A construção deste app faz parte da disciplina de Programação de Dispositivo
 
 ![tela](https://github.com/user-attachments/assets/7bf8058d-abbe-4e9a-828a-37bc33c5fccd)
 
-</p>![tela2](https://github.com/user-attachments/assets/9dd99a82-85d7-44e2-831a-b6d1a34206fc)
+![tela2](https://github.com/user-attachments/assets/6fff29d9-22d7-4d65-9337-3933a06b0940)
+
 
 </details>
 
