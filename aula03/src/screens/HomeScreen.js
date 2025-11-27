@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, FlatList, TouchableOpacity } from 'react-native'
 import React, { useEffect, useState } from 'react'
-import { db } from '../config/firebaseConfig'
+import { db } from '../config/firebaseConfig.js'
 import { collection, getDocs } from 'firebase/firestore'
 
 const HomeScreen = ({ navigation }) => {
@@ -12,11 +12,16 @@ const HomeScreen = ({ navigation }) => {
   useEffect(() => {
     const fetchCourses = async () => {
       try {
+        console.log("Iniciando busca no Firebase...");
         const snapshot = await getDocs(collection(db, "cursos"))
-        const data = snapshot.docs.map((doc) => ({
-          id: doc.id,
-          ...doc.data()
-        }))
+        console.log("Documentos encontrados:", snapshot.size);
+        const data = snapshot.docs.map((doc) => {
+          console.log("Dados do doc:", doc.data()); // 3. O que tem dentro?
+          return {
+            id: doc.id,
+            ...doc.data()
+          }
+        })
         setCourses(data)
       } catch (error) {
         console.error("Erro ao buscar cursos no Firestore", error)
